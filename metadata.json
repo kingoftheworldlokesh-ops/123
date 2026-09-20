@@ -1,0 +1,8 @@
+{
+  "name": "BangShorts",
+  "description": "Watch the first YouTube Short only and block subsequent shorts after a specified time limit to stop doomscrolling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

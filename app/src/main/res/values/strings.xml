@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shorts Shield</string>
+    <string name="accessibility_service_description">Protects your focus by allowing only the first YouTube Short, then automatically blocking future shorts after your chosen time limit to prevent doomscrolling.</string>
+    <string name="shield_active">Shorts Shield Active</string>
+    <string name="shield_paused">Shorts Shield Paused</string>
+    <string name="shorts_blocked_title">Doomscroll Blocked!</string>
+    <string name="shorts_blocked_subtitle">You finished your allowed first short. Time to step back and reclaim your attention.</string>
+</resources>
